@@ -1,5 +1,5 @@
 var test = require('tape')
-var look_and_say = require('look-and-say');
+var look_and_say = require('../index.js');
 
 test('Seed: 1', function(t) {
 	t.test('without iterations arg', function(st) {
