@@ -1,0 +1,22 @@
+{
+  "name": "look-and-say",
+  "version": "0.0.0",
+  "description": "Generate look-and-say sequences",
+  "main": "index.js",
+  "scripts": {
+    "test": "tape test/**/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/GamingCoder/look-and-say.git"
+  },
+  "keywords": [
+    "math"
+  ],
+  "author": "Tobias Meyer",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/GamingCoder/look-and-say/issues"
+  },
+  "homepage": "https://github.com/GamingCoder/look-and-say"
+}
