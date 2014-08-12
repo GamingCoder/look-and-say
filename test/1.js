@@ -10,7 +10,7 @@ test('Seed: 1', function(t) {
 		t.equal(r[1], 11, 'Second element should equal 11');
 	});
 	t.test('with iterations arg', function(st) {
-		st.plan(2);
+		st.plan(13);
 		r = look_and_say(1, 10)
 		t.equal(r.length, 11, 'Array length should be 11');
 		t.equal(r[0], 1);
