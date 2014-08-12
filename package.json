@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/GamingCoder/look-and-say/issues"
   },
-  "homepage": "https://github.com/GamingCoder/look-and-say"
+  "homepage": "https://github.com/GamingCoder/look-and-say",
+  "devDependencies": {
+    "tape": "^2.14.0"
+  }
 }
